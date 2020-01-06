@@ -3,6 +3,7 @@
   "version": "1.8.0",
   "description": "Zigbee to MQTT bridge using Zigbee-herdsman",
   "main": "index.js",
+  "bin": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Koenkk/zigbee2mqtt.git"
